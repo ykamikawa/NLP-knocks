@@ -1,3 +1,3 @@
 # NLP-knocks
 
-言語処理100本ノックを10日で全部やる
+[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)を10日で全部やる
