@@ -1,1 +1,7 @@
 data/test_db*
+data/context.txt
+data/corpus.txt
+data/corpus81.txt
+data/counter_*
+data/dict_index_t
+data/matrix_*
